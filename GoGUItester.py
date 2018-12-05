@@ -1,0 +1,4 @@
+
+import GoGUI
+
+GoGUI.runGame()
